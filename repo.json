@@ -1,0 +1,39 @@
+{
+  "name": "singer",
+  "identifier": "com.hellyeah",
+  "sourceURL": "https://community-apps.sidestore.io/sidecommunity.json",
+  "iconURL": "https://sidestore.io/assets/icon.png",
+  "userinfo": {},
+  "apps": [
+    {
+      "name": "PPSSPP",
+      "bundleIdentifier": "org.ppsspp.ppsspp",
+      "developerName": "Henrik Rydg\u00e5rd",
+      "version": "1.13.2",
+      "versionDate": "2022-09-18T23:59:49Z",
+      "versionDescription": "# v1.13.2\n\n",
+      "downloadURL": "https://github.com/d0nh3art/YTMusicUltimate/releases/download/v9.16.4/YTMusicUltimate_9.16.4.ipa",
+      "localizedDescription": "muzyka",
+      "iconURL": "",
+      "tintColor": "#21486b",
+      "size": 14509458,
+      "screenshotURLs": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "subtitle": "muzyka",
+      "absoluteVersion": "1.13.2",
+      "appID": "",
+      "versions": [
+        {
+          "version": "1.13.2",
+          "date": "2022-09-18T23:59:49Z",
+          "downloadURL": "https://github.com/d0nh3art/YTMusicUltimate/releases/download/v9.16.4/YTMusicUltimate_9.16.4.ipa",
+          "localizedDescription": "# v1.13.2\n\n",
+          "size": 14509458,
+          "absoluteVersion": "1.13.2"
+        }
+      ]
+    },
